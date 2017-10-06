@@ -1,5 +1,5 @@
 @charset "utf-8";
-/*--藝見哈瑪星-*/
+/*--1006-1903-*/
 html,body{margin:0; padding:0; border:none;}
 body{font-family: Verdana, Microsoft JhengHei;}
 /*--藝見哈瑪星-*/
@@ -84,14 +84,14 @@ body{font-family: Verdana, Microsoft JhengHei;}
 //左nav-日曆
 #Exhi-Show_main_nav_date{font-size:15px; text-align:center; display:block; float:left; width:100%; margin-bottom:10px;}
 //左nav-日曆圖
-.date_img//39.66%{display:table; margin-left:-5%; width:70%; padding-top:27.76%; background: url(https://i0.wp.com/img.somethingfun.tw/ecomobility/img/datenav.gif) 0% 0% no-repeat; background-size:cover; margin-bottom:15px;}
+.date_https://i0.wp.com/img.somethingfun.tw/ecomobility/img//39.66%{display:table; margin-left:-5%; width:70%; padding-top:27.76%; background: url(https://i0.wp.com/img.somethingfun.tw/ecomobility/img/datenav.gif) 0% 0% no-repeat; background-size:cover; margin-bottom:15px;}
 //左nav-日曆-週
 .Exhi-Show_main_nav_date_week{display:block; float:inherit; width:12%; line-height:15px; height:15px; margin:5px auto; color:#FFF462; border:solid 1px #80B552; }
 //左nav-日曆-日連結
 #Exhi-Show_main_nav_date a{display:block; float:left; width:12%; height:30px;line-height:30px; margin:5px 0; color:#fff; border:solid 1px #80B552;}
 #Exhi-Show_main_nav_date a:hover {background-color:#FFF; text-decoration:none; color:#4C8E37; border:solid 1px #4C8E37;}
 //左nav-地點圖
-.location_img//39.66%{display:table; margin-left:-5%; width:70%; padding-top:27.76%; background: url(https://i0.wp.com/img.somethingfun.tw/ecomobility/img/locnav.gif) 0% 0% no-repeat; background-size:cover; margin-bottom:15px;}
+.location_https://i0.wp.com/img.somethingfun.tw/ecomobility/img//39.66%{display:table; margin-left:-5%; width:70%; padding-top:27.76%; background: url(https://i0.wp.com/img.somethingfun.tw/ecomobility/img/locnav.gif) 0% 0% no-repeat; background-size:cover; margin-bottom:15px;}
 //左nav-地點
 #Exhi-Show_main_nav_location{display:block; float:left; width:100%; margin-bottom:15px;}
 //左nav-地點
@@ -102,14 +102,14 @@ body{font-family: Verdana, Microsoft JhengHei;}
 #Exhi-Show_main_nav{width:100%; padding:0;}
 //左nav-日曆
 #Exhi-Show_main_nav_date{width:100%; float:left;}
-.date_img//39.66%{width:30%; padding-top:11.89%; margin:0 0 1% 0; }
+.date_https://i0.wp.com/img.somethingfun.tw/ecomobility/img//39.66%{width:30%; padding-top:11.89%; margin:0 0 1% 0; }
 .Exhi-Show_main_nav_date_week{width:9%; padding:1%; margin:1%;}
 #Exhi-Show_main_nav_date a{width:9%; padding:1%; margin:1%;}
 #october{margin-top:-10%; float:right;text-align:right}
 //左nav-地點
 #Exhi-Show_main_nav_location{width:100%; float:left;}
 #Exhi-Show_main_nav_location a{padding:1% 2%; margin:2%;}
-.location_img//39.66%{width:30%; padding-top:11.89%; margin:0 0 1% 0;}
+.location_https://i0.wp.com/img.somethingfun.tw/ecomobility/img//39.66%{width:30%; padding-top:11.89%; margin:0 0 1% 0;}
 }
 */
 
@@ -147,7 +147,7 @@ font-size:16px; line-height:20px; background-color:rgba(128,181,82,0.40); color:
 .teamname{float:left; font-size:20px; width:75%; margin:0 5% 5px 0; color:#148EB2;font-family: Verdana, Microsoft JhengHei;}
 .teamtext{float:left; font-size:15px; line-height:21px; width:75%; margin:0 5% 15px 0; color:#333;text-align:justify;font-family: Verdana, Microsoft JhengHei;}
 .teamphoto{float:right; width:19%; border:1px solid #148EB2;border-radius:1em;margin:0 0 15px 0;}
-#about_team hr{height:0px; border:none; border-bottom:1px solid #148EB2; margin:0 0 15px 0;}
+#about_team hr, #programs-links hr{height:0px; border:none; border-bottom:1px solid #148EB2; margin:0 0 15px 0;}
 
 
 @media only screen and (max-width: 800px){
@@ -200,9 +200,9 @@ font-size:16px; line-height:20px; background-color:rgba(128,181,82,0.40); color:
 .mapmenu .ullist li a{ font-size:15px; line-height:25px; padding:5px; color:#392000!important; background-color:#CCDF8C!important; border-radius:5px; display:block;overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
 .ullist li a span{font-family: Verdana, Microsoft JhengHei;}
 .mapmenu .ullist li.active a,.menu .ullist li a:hover{color:#fff!important; background-color:#DD4C33!important;}
-.gm-style,.gm-style-iw{font-family: Verdana, Microsoft JhengHei; color:#392000; font-size:16px;}
+.gm-style,.gm-style-iw{color:#392000; font-size:16px; font-family: Verdana, Microsoft JhengHei;}
 .weekblank{margin-right:0.6em;}
-.gm-style-iw h3 { margin:10px 0;color:#D71518}
+.gm-style-iw h3 {margin:10px 0;color:#D71518}
 .gmap p {margin:0;}
 .gm-style-iw img {max-height:100px;}
 .gm-style-iw a {display:inline-block; margin:15px 0; padding:8px; border-radius:8px; background-color:#50A035; color:#fff; text-decoration:none;}
